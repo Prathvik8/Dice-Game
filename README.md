@@ -1,5 +1,7 @@
-# Dice-Game
 
+# Dice-Game
+  https://prathvik8.github.io/Dice-Game/
+  
 🚀 Features
 
 *Two dice roll randomly on each refresh.
